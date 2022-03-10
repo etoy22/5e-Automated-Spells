@@ -1,0 +1,20 @@
+{
+    "name": "5e-Automated-Spells",
+    "title": "5e Automated Spells",
+    "description": "Automating SRD Spells with MIDI and DAE",
+    "version": "1.0.0",
+    "author": "DM Staley, Lore Leider",
+    "url":"https://github.com/etoy22/elkan5e",
+    "minimumCoreVersion": "0.8.6",
+    "compatibleCoreVersion": "9",
+    "packs": [
+		{
+            "name": "automated-spells",
+            "label": "SRD Automated Spells",
+            "path": "./packs/automated-spells.db",
+            "entity": "Item"
+        }
+    ],
+    "manifest": "https://github.com/etoy22/elkan5e/releases/latest/download/module.json",
+    "download": "https://github.com/etoy22/elkan5e/releases/latest/download/module.zip"
+  }
