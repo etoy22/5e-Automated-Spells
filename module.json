@@ -2,7 +2,7 @@
     "name": "5e-Automated-Spells",
     "title": "5e Automated Spells",
     "description": "Automating SRD Spells with MIDI and DAE",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Lore Leider",
     "url":"https://github.com/etoy22/5esrd-automated-spells",
     "minimumCoreVersion": "0.8.6",
