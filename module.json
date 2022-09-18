@@ -1,12 +1,12 @@
 {
   "title": "5e Automated Spells",
   "description": "Automating SRD Spells with MIDI and DAE",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "url": "https://github.com/etoy22/5esrd-automated-spells",
   "packs": [
     {
       "name": "automated-spells",
-      "label": "SRD Automated Spells",
+      "label": "Automated SRD Spells",
       "system": "dnd5e",
       "path": "packs/automated-spells.db",
       "type": "Item",
@@ -20,8 +20,14 @@
   "authors": [
     {
       "name": "Lore Leider",
+      "url":"https://www.elkan5e.com/",
       "flags": {}
-    }
+    },
+    {
+      "name": "DM Staley",
+      "url":"https://www.elkan5e.com/",
+      "flags": {}
+    },
   ],
   "compatibility": {
     "minimum": "9",
