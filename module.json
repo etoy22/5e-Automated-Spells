@@ -1,7 +1,7 @@
 {
   "title": "5e Automated Spells",
   "description": "Automating SRD Spells with MIDI and DAE",
-  "version": "1.0.9",
+  "version": "1.1.0",
   "url": "https://github.com/etoy22/5esrd-automated-spells",
   "authors": [
     {
