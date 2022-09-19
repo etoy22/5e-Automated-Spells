@@ -3,6 +3,11 @@
   "description": "Automating SRD Spells with MIDI and DAE",
   "version": "1.1.0",
   "url": "https://github.com/etoy22/5esrd-automated-spells",
+  "flags": {
+    "fvttdevleague": {
+        "package-jam": 2022
+    }
+  },
   "authors": [
     {
       "name": "Lore Leider",
