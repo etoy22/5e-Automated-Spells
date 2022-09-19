@@ -32,5 +32,24 @@
   "compatibility": {
     "minimum": "10",
     "verified": "10"
+  },
+  "relationships": {
+    "systems": [{
+      "id": "dae",
+      "type": "module",
+      "manifest": "https://gitlab.com/tposney/dae/raw/v10/package/module.json",
+      "compatibility": {
+        "verified": "10.0.7"
+      }
+    },
+    {
+      "id": "midi-qol",
+      "type": "module",
+      "manifest": "https://gitlab.com/tposney/midi-qol/raw/v10/package/module.json",
+      "compatibility": {
+        "verified": "10.0.11"
+      }
+    }
+  ]
   }
 }
