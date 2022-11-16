@@ -5,18 +5,18 @@
   "url": "https://github.com/etoy22/5esrd-automated-spells",
   "flags": {
     "fvttdevleague": {
-        "package-jam": 2022
+      "package-jam": 2022
     }
   },
   "authors": [
     {
       "name": "Lore Leider",
-      "url":"https://www.elkan5e.com/",
+      "url": "https://www.elkan5e.com/",
       "flags": {}
     },
     {
       "name": "DM Staley",
-      "url":"https://www.elkan5e.com/",
+      "url": "https://www.elkan5e.com/",
       "flags": {}
     }
   ],
@@ -33,7 +33,7 @@
   ],
   "manifest": "https://github.com/etoy22/5esrd-Automated-Spells/releases/latest/download/module.json",
   "download": "https://github.com/etoy22/5esrd-Automated-Spells/releases/latest/download/module.zip",
-  "id": "5e-automated-spells",
+  "id": "5esrd-automated-spells",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
